@@ -1,9 +1,9 @@
-PennApps Sinatra
-================
+Sinatra Shell
+=============
 
 About
 -----
-This is a little webapp designed to show how to win PennApps with some classy web-development (using Sinatra). This app is live at http://pennapps-sinatra.herokuapp.com.
+This is a shell of a webapp designed to help get you up and running quickly and win PennApps with some classy web-development (using Sinatra). An example of something that can be built starting with this is at https://github.com/gterrono/pennapps-sinatra.
 
 Setup
 -----
